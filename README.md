@@ -28,5 +28,8 @@ Example usage:
 ```bash
 python scale_images_and_kitti.py images kitti_annotations 284 284
 ```
+
+Two new folders will be generated with the scaled images and converted KITTI coordinates.
+
 ## More info
 This script was done as a technical assignment for [TRIFORK](https://trifork.com/).
