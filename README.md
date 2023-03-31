@@ -1,6 +1,6 @@
 # Image and Kitti Scaler
 
-This project allows you to scale imaged and their according bounding boxes in KITTI format.
+This project allows you to scale images and their according bounding boxes in KITTI format.
 
 
 ## External Dependencies
